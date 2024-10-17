@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/contexts/gamecontext.ts","./src/contexts/gameprovider.tsx","./src/dice/dice.tsx","./src/dice/alldice.tsx","./src/hooks/usegame.tsx","./src/reducer/gamereducer.tsx"],"version":"5.6.3"}
